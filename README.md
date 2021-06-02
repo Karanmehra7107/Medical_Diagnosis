@@ -35,6 +35,12 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+**Step-4:** Side by side go to the root command prompt run following commands<br> 
+```
+cd templates
+index.html
+```
+
 Inbulit Debigging mode is on
 ----------------------
 **If already have anaconda prompt base envi..**
