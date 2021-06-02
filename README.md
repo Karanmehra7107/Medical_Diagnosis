@@ -35,6 +35,12 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+----------------------
+**If already have anaconda prompt base envi..
+```python
+flask run
+```
+
 ## 
 ## Dataset Links
 All the datasets were used from kaggle.
