@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
-**Step-4:** Side by side go to the root command prompt run following commands<br> 
+**Step-4:** Side by side go to the root command prompt run following commands in new cmd terminL<br> 
 ```
 cd templates
 index.html
