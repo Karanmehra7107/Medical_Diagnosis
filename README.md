@@ -35,8 +35,9 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+Inbulit Debigging mode is on
 ----------------------
-**If already have anaconda prompt base envi..
+**If already have anaconda prompt base envi..**
 ```python
 flask run
 ```
