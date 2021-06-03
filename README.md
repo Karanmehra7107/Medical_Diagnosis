@@ -21,7 +21,7 @@ Malaria | Deep Learning Model(CNN) | 96%
 Pneumonia | Deep Learning Model(CNN) | 95%
 
 ## NOTE
-==> You can access the website live at: https://kvg-disease-predictor.herokuapp.com <br>
+<br>
 ==> Python version 3.6.8 was used for the whole project.<br>
 ==> You can find all the models in [models](https://github.com/venugopalkadamba/Multi_Disease_Predictor/tree/master/models) folder.
 
