@@ -35,6 +35,12 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+
+or
+
+```python
+flask run
+```
 **Step-4:** Side by side go to the root command prompt run following commands in new cmd terminal<br> 
 ```
 cd templates
