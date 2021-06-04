@@ -23,6 +23,11 @@ __Capstone-2: LPU | CAP347 CARGC0019__
 
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, BOOTSTRAP, ML, DL___ on ___github.io___ platform.
   
+  
+## Problem Statment
+The proposed project would be very useful in the medical field. In the proposed project a machine learning- based web application would be created for medical diagnosis. For a medical diagnosis, a machine learning model would be developed and integrated with the created web application. The user would be able to upload his medical data on the web application. The web application would pass this data to a developed machine learning model for health disease detection. After detection of health disease, if the person wants to take advice from a doctor then he can fix the appointment on the web application. A chat option would be provided on the web application to provide the communication between the patient and the doctor.
+  
+  
 
 ## About
 This webapp was developed using Flask Web Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
