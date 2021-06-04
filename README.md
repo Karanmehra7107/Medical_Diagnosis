@@ -185,7 +185,7 @@ __Links for Python Notebooks used for model creation__
 <br>[Navdeep Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
 
-__Special thanks to:__ Dr. Amar Singh (Assoicate professoi) AI in data science & Machine learning.
+__Special thanks to:__ Dr. Amar Singh (Assoicate professr) AI in data science & Machine learning.
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
