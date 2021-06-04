@@ -1,4 +1,4 @@
-# Medical_Diagnosis |  Medical Diagnosis A Machine Learning Based Web Application
+# Medical_Diagnosis |  A Machine Learning Based Web Application
 
 ![590-5901121_lovely-professional-university-logo-hd-png-download](https://user-images.githubusercontent.com/62024355/120755302-6ee99700-c52b-11eb-95b8-075edac041ed.png)
 
