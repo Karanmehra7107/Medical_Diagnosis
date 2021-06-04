@@ -9,31 +9,23 @@ __Capstone-2: LPU | CAP347 CARGC0019__
 ![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)  ![Frontend](https://img.shields.io/badge/Libraries-Streamlit-purple.svg)    ![Bootstrap](https://img.shields.io/badge/BaseEnvironment-AnacondaPrompt-brown.svg)   ![Bootstrap](https://img.shields.io/badge/Deployment-Github-yellow.svg)   ![Bootstrap](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)  
 
 ## Table of Content
-  * [Problem statment/ Why this topic?](#Problem-statment)
-  * [Screenshots](#screenshots)
-  * [Demo](#demo)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
+  * [Problem statment / Why this topic?](#Problem-statment)
+  * [Flow Chart / Archeticture](#Flow-chart)
   * [Directory Tree](#directory-tree)
+  * [What is Machine Learning](#Machine-learning)
+  * [Quick start](#Quick-start)
+  * [Screenshots](#screenshots)
+  * [Technical Aspect](#technical-aspect)
+  * [Our resources](#Our-resources)
   * [Team](#team)
   * [License](#license)
   
 
-  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, BOOTSTRAP___ on ___github.io___ platform.
+  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, BOOTSTRAP, ML, DL___ on ___github.io___ platform.
   
 
-Flow Chart / archeticture
-Why Machine Learning?
-Implimentation
-ML predictor features
-Front-end features
-Our resources
-Deployment
-
-
-
 ## About
-This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
+This webapp was developed using Flask Web Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 * Diabetes
 * Breast Cancer
 * Heart Disease
