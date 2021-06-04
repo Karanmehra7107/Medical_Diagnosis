@@ -1,6 +1,6 @@
 # Medical_Diagnosis
 
-![breadcumb3](https://user-images.githubusercontent.com/62024355/120712448-44bdb800-c4de-11eb-9d67-edce4e8ef9b7.jpg)
+
 
 ## About
 This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
@@ -78,7 +78,7 @@ All the datasets were used from kaggle.
 
 
 ## Team
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="1">
+![breadcumb3](https://user-images.githubusercontent.com/62024355/120712448-44bdb800-c4de-11eb-9d67-edce4e8ef9b7.jpg)
 
 [Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
