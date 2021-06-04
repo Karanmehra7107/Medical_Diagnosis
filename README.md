@@ -15,7 +15,6 @@ __Capstone-2: LPU | CAP347 CARGC0019__
   * [Quick start](#Quick-start)
   * [Screenshots](#screenshots)
   * [Technical Aspect](#technical-aspect)
-  * [Our resources](#Our-resources)
   * [Team](#team)
   * [License](#license)
   
@@ -182,7 +181,7 @@ __Links for Python Notebooks used for model creation__
 ![breadcumb3](https://user-images.githubusercontent.com/62024355/120712448-44bdb800-c4de-11eb-9d67-edce4e8ef9b7.jpg)
 
 
-[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html) | [Surbhi](https://github.com/Surbhisingh014) | [Navdee Nijjar](https://karanmehra7107.github.io/My-Portfolio/index.html)
+[Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) | [Surbhi (Exploratory Data cleaning, Data gathering,)](https://github.com/Surbhisingh014) | [Navdee Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
 
 ## License
