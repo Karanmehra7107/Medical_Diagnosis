@@ -35,6 +35,10 @@ Although, we know that humans can do the mistakes but machines doesnt. Plus we c
   
   
 ## Flow chart
+Front-end UX/UI flow chart
+
+
+Back-end Machine learning, Deep learning flow chart
   
   
   
