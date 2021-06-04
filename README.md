@@ -3,7 +3,7 @@
 __Capstone-2: LPU | CAP347 CARGC0019__
 
 
-![Pyhon 3.4](https://img.shields.io/badge/ide-jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Python-CSS-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
+![Pyhon 3.4](https://img.shields.io/badge/ide-jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
