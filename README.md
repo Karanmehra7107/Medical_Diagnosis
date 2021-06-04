@@ -12,7 +12,6 @@ __Capstone-2: LPU | CAP347 CARGC0019__
   * [Problem statment / Why this topic?](#Problem-statment)
   * [Flow Chart / Archeticture](#Flow-chart)
   * [Directory Tree](#directory-tree)
-  * [What is Machine Learning](#Machine-learning)
   * [Quick start](#Quick-start)
   * [Screenshots](#screenshots)
   * [Technical Aspect](#technical-aspect)
