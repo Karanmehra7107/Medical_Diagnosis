@@ -1,5 +1,23 @@
 # Medical_Diagnosis
 
+__Capstone-2: LPU | CAP347 CARGC0019__
+
+
+![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
+
+## Table of Content
+  * [Problem statment](#Problem-statment)
+  * [Screenshots](#screenshots)
+  * [Demo](#demo)
+  * [Motivation](#motivation)
+  * [Technical Aspect](#technical-aspect)
+  * [Directory Tree](#directory-tree)
+  * [Team](#team)
+  * [License](#license)
+  
+
+  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, BOOTSTRAP___ on ___github.io___ platform.
+  
 
 Flow Chart / archeticture
 Why Machine Learning?
