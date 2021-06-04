@@ -74,7 +74,7 @@ Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
   
   
   
-  ## Quick start
+## Quick start
   
 **Step-1:** Download the files in the repository.<br>
 **Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
@@ -86,8 +86,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-or
-
 ```python
 flask run
 ```
@@ -97,12 +95,7 @@ cd templates
 index.html
 ```
 
-Inbulit Debigging mode is on
-----------------------
-**If already have anaconda prompt base envi..**
-```python
-flask run
-```
+
 
   
   
