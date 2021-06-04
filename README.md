@@ -1,13 +1,12 @@
 # Medical_Diagnosis
 
 
-
 Flow Chart / archeticture
 Why Machine Learning?
 Implimentation
-ML Features
+ML predictor features
 Front-end features
-Resources
+Our resources
 Deployment
 
 
