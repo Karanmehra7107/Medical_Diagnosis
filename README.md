@@ -43,7 +43,33 @@ Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
   
   
   
-  
+## Directory Tree 
+```
+├── Pyhon notebooks code files
+├── trained models.pkl file
+├── static logos
+├── Templates
+│   ├── Home.html
+│   ├── contact.html
+│   ├── about us.html
+│   └── services.html
+│       ├── * Diabetes
+│       ├── * Breast Cancer
+│       ├── * Heart Disease
+│       ├── * Kidney Disease
+│       ├── * Liver Disease
+│       ├── * Malaria
+│       ├── * Pneumonia
+├── index.html
+├── index1.html
+├── index2.html
+├── index3.html
+├── index4.html
+├── index5.html
+└── README.md
+
+```
+
   
   
   
