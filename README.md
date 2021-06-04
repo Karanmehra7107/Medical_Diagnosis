@@ -52,21 +52,23 @@ Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
 │   ├── Home.html
 │   ├── contact.html
 │   ├── about us.html
-│   └── services.html
-│       ├── * Diabetes
-│       ├── * Breast Cancer
-│       ├── * Heart Disease
-│       ├── * Kidney Disease
-│       ├── * Liver Disease
-│       ├── * Malaria
-│       ├── * Pneumonia
-├── index.html
-├── index1.html
-├── index2.html
-├── index3.html
-├── index4.html
-├── index5.html
-└── README.md
+│   ├── services.html
+│   ├── css folder
+│   ├── js folder
+│   ├── images folder
+│   └── fonts folder
+│         ├── Diabetes
+│         ├── Breast Cancer
+│         ├── Heart Disease
+│         ├── Kidney Disease
+│         ├── Liver Disease
+│         ├── Malaria
+│         └── Pneumonia
+├── app.py
+├── readme.md
+├── runtime.txt
+└── requirements.txt
+
 
 ```
 
