@@ -74,6 +74,36 @@ Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
   
   
   
+  ## Quick start
+  
+**Step-1:** Download the files in the repository.<br>
+**Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
+```python
+pip install -r requirements.txt
+```
+**Step-3:** After successfull installation of all the dependencies, run the following command<br>
+```python
+python app.py
+```
+
+or
+
+```python
+flask run
+```
+**Step-4:** Side by side go to the root command prompt run following commands in new cmd terminal<br> 
+```
+cd templates
+index.html
+```
+
+Inbulit Debigging mode is on
+----------------------
+**If already have anaconda prompt base envi..**
+```python
+flask run
+```
+
   
   
   
@@ -119,33 +149,6 @@ Pneumonia | Deep Learning Model(CNN) | 95%
 ==> Python version 3.6.8 was used for the whole project.<br>
 
 ## Steps to run the WebApp in local Computer
-**Step-1:** Download the files in the repository.<br>
-**Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
-```python
-pip install -r requirements.txt
-```
-**Step-3:** After successfull installation of all the dependencies, run the following command<br>
-```python
-python app.py
-```
-
-or
-
-```python
-flask run
-```
-**Step-4:** Side by side go to the root command prompt run following commands in new cmd terminal<br> 
-```
-cd templates
-index.html
-```
-
-Inbulit Debigging mode is on
-----------------------
-**If already have anaconda prompt base envi..**
-```python
-flask run
-```
 
 ## 
 ## Dataset Links
