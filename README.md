@@ -80,9 +80,7 @@ All the datasets were used from kaggle.
 ## Team
 ![breadcumb3](https://user-images.githubusercontent.com/62024355/120712448-44bdb800-c4de-11eb-9d67-edce4e8ef9b7.jpg)
 
-[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html) 
-[Surbhi](https://github.com/Surbhisingh014)
-[Navdee Nijjar](https://karanmehra7107.github.io/My-Portfolio/index.html)
+[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html) | [Surbhi](https://github.com/Surbhisingh014) | [Navdee Nijjar](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
