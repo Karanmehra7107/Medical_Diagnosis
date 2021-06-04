@@ -182,7 +182,7 @@ __Links for Python Notebooks used for model creation__
 
 
 [Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) <br> [Surbhi (Exploratory Data cleaning, Data gathering)](https://github.com/Surbhisingh014) 
-<br>[Navdee Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
+<br>[Navdeep Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
 
 __Special thanks to:__ Dr. Amar Singh (Assoicate professoi) AI in data science & Machine learning.
