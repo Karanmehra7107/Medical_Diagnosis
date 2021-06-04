@@ -3,7 +3,7 @@
 __Capstone-2: LPU | CAP347 CARGC0019__
 
 
-![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)   ![Bootstrap](https://img.shields.io/badge/Algorithms-Machine Learning/CNN-purple.svg)   ![Bootstrap](https://img.shields.io/badge/ Libraries-Sklearn-purple.svg)   ![Bootstrap](https://img.shields.io/badge/Algorithms-Machine Learning-purple.svg)  
+![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)  ![Frontend](https://img.shields.io/badge/Streamlit-Bootstrap-purple.svg)    ![Bootstrap](https://img.shields.io/badge/Algorithms-Machine Learning/CNN-purple.svg)   ![Bootstrap](https://img.shields.io/badge/ Libraries-Sklearn-purple.svg)   ![Bootstrap](https://img.shields.io/badge/Algorithms-Machine Learning-purple.svg)  
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
