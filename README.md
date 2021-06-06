@@ -178,7 +178,8 @@ __Links for Python Notebooks used for model creation__
 
 
 ## Team
-![breadcumb3](https://user-images.githubusercontent.com/62024355/120712448-44bdb800-c4de-11eb-9d67-edce4e8ef9b7.jpg)
+![1622949162341](https://user-images.githubusercontent.com/62024355/120911263-703dcf80-c6a3-11eb-874f-93b538270b4e.jpg)
+
 
 
 [Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) <br> [Surbhi (Exploratory Data cleaning, Data gathering)](https://github.com/Surbhisingh014) 
