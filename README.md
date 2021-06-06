@@ -86,9 +86,10 @@ python app.py
 ```
 
 ```python
+or
 flask run
 ```
-**Step-4:** Side by side go to the root command prompt run following commands in new cmd terminal<br> 
+**Step-4:** Go to the __New command prompt__ of root folder, run the following commands in new cmd terminal<br> 
 ```
 cd templates
 index.html
