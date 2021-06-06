@@ -112,26 +112,11 @@ index.html
 ![2](https://user-images.githubusercontent.com/62024355/120785800-1d510480-c54b-11eb-8bc6-65447a5bd264.png)
 ![3](https://user-images.githubusercontent.com/62024355/120785802-1de99b00-c54b-11eb-9c62-68e470eecd31.png)
 ![7](https://user-images.githubusercontent.com/62024355/120785806-1de99b00-c54b-11eb-88ed-238fa0e9b0c1.png)
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
 
 ## Technical aspects
+
 This webapp was developed using Flask Web Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 * Diabetes
 * Breast Cancer
